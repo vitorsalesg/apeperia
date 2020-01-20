@@ -1,8 +1,6 @@
 <h1 >Apeperia</h1>
 
-<p align="justify">Com base em um Projeto ja existente foi aplicado o Sass e Compass. O projeto Apeperia possuia diversos lugares que os codigos se repetiam e faziam a mesma coisa, foi feito a criação de (Variaveis, Mixins, PlaceHolders e funções).
-
-Melhorias: 
+<p align="justify">Com base em um Projeto ja existente foi aplicado o Sass e Compass. O projeto Apeperia possuia diversos lugares que os codigos se repetiam e faziam a mesma coisa. Dentre as melhorias estão:
 
 - Retirado os codigos repetidos.
 - Deixando a manutenção do codigo mais rapida, pois um unico ponto alterado ira refletir nos outros selecionados com a mesma configuração.
