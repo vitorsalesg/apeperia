@@ -10,6 +10,26 @@
 
 </p>
 
+
+<h2>Variaveis do Projeto</h2>
+
+![variaveis](https://user-images.githubusercontent.com/42179077/72748775-f3d24b80-3b96-11ea-9348-0abcbd7bb013.PNG)
+
+<h2>Mixins do Projeto</h2>
+
+![mixins](https://user-images.githubusercontent.com/42179077/72748688-ab1a9280-3b96-11ea-8d47-bbeecc0df7be.png)
+
+<h2>Placeholders do Projeto</h2>
+
+![placeholders](https://user-images.githubusercontent.com/42179077/72748696-ae158300-3b96-11ea-9154-77540e1f2aa0.PNG)
+
+<h2>Funções do Projeto</h2>
+
+![funcao](https://user-images.githubusercontent.com/42179077/72748705-b53c9100-3b96-11ea-8f6d-607d20555d5c.PNG)
+
+
+<h1>Imagens do Projeto</h1>
+
 ![header](https://user-images.githubusercontent.com/42179077/72747802-668df780-3b94-11ea-9f66-2d21ea22c6b0.PNG)
 
 ![planos](https://user-images.githubusercontent.com/42179077/72747808-6a217e80-3b94-11ea-8299-9687f1631b16.PNG)
