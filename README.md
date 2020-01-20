@@ -2,13 +2,13 @@
 
 <p align="justify">Com base em um Projeto ja existente foi aplicado o Sass e Compass. O projeto Apeperia possuia diversos lugares que os codigos se repetiam e faziam a mesma coisa, foi feito a criação de (Variaveis, Mixins, PlaceHolders e funções).
 
-Melhorias 
+Melhorias: 
 
-- Evitar codigos repetidos
-- Manutenção do codigo mais rapida, pois um unico ponto alterado ira refletir nos outros selecionados com a mesma configuração.
-- Foi criado uma função matematica para realizar operações de calculo de largura, width, padding.
-- Realizado a implementação do Sprite para resultar em uma unica imagem final.
-- Foi utilizado a função (Darken e Lighten) para as cores.
+- Retirado os codigos repetidos.
+- Deixando a manutenção do codigo mais rapida, pois um unico ponto alterado ira refletir nos outros selecionados com a mesma configuração.
+- Criado uma função matematica para realizar operações de calculo de como (heigth, width, padding).
+- Realizado a implementação do Sprite para resultar em uma unica imagem final, evita diversas requisições em busca das imagens.
+- Foi utilizado a função (Darken e Lighten) para alterar as cores para mais escuras ou mais claras.
 
 </p>
 
