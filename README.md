@@ -1,12 +1,14 @@
 <h1 >Apeperia</h1>
 
-<p align="justify">Com base no projeto ja existente foi aplicado o Sass no projeto Apeperia pois existia diversos lugares que os codigos se repetiam e faziam a mesma coisa, foi feito a criação de (Variaveis, Mixins, PlaceHolders e funções).
+<p align="justify">Com base em um Projeto ja existente foi aplicado o Sass e Compass. O projeto Apeperia possuia diversos lugares que os codigos se repetiam e faziam a mesma coisa, foi feito a criação de (Variaveis, Mixins, PlaceHolders e funções).
 
-- Evita codigos repetidos
+Melhorias 
+
+- Evitar codigos repetidos
 - Manutenção do codigo mais rapida, pois um unico ponto alterado ira refletir nos outros selecionados com a mesma configuração.
 - Foi criado uma função matematica para realizar operações de calculo de largura, width, padding.
-- Realizado a implementação do Sprite com varias imagens
-- Foi utilizado a função (Darken e Lighten) 
+- Realizado a implementação do Sprite para resultar em uma unica imagem final.
+- Foi utilizado a função (Darken e Lighten) para as cores.
 
 </p>
 
@@ -27,7 +29,7 @@
 ![funcao](https://user-images.githubusercontent.com/42179077/72748705-b53c9100-3b96-11ea-8f6d-607d20555d5c.PNG)
 
 
-<h1>Imagens do Projeto</h1>
+<h1>Projeto:</h1>
 
 ![header](https://user-images.githubusercontent.com/42179077/72747802-668df780-3b94-11ea-9f66-2d21ea22c6b0.PNG)
 
