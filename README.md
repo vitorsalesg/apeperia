@@ -36,3 +36,9 @@ Melhorias
 ![planos](https://user-images.githubusercontent.com/42179077/72747808-6a217e80-3b94-11ea-8299-9687f1631b16.PNG)
 
 ![blog-contato](https://user-images.githubusercontent.com/42179077/72747819-71e12300-3b94-11ea-8172-35e37f758466.PNG)
+
+
+
+<p>Editor: Visual Studio Code</p>
+<p>Curso: <a href="https://cursos.alura.com.br/course/sass"> Sass e Compass </p>
+
